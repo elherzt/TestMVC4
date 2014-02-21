@@ -28,5 +28,12 @@ namespace TestForGit.Controllers
 
             return View();
         }
+
+        public ActionResult Saludo()
+        {
+            
+
+            return View();
+        }
     }
 }
