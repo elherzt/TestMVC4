@@ -35,5 +35,19 @@ namespace TestForGit.Controllers
 
             return View();
         }
+
+        public ActionResult Welcome()
+        {
+
+
+            return View();
+        }
+
+        public ActionResult Another()
+        {
+
+
+            return View();
+        }
     }
 }
