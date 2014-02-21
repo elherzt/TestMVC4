@@ -284,6 +284,7 @@
     <Content Include="Views\Home\Saludo.cshtml" />
     <Content Include="Views\Home\Welcome.cshtml" />
     <Content Include="Views\Home\Another.cshtml" />
+    <Content Include="Views\Home\Emigdio.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
