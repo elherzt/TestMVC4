@@ -49,5 +49,11 @@ namespace TestForGit.Controllers
 
             return View();
         }
+
+        public ActionResult Emigdio()
+        {
+            return View();
+        }
+
     }
 }
